@@ -6,4 +6,5 @@
 ## 文章目录
 
 1. [请你实现个bind绑定](https://github.com/kejianfeng/daily-writing/issues/1)
+2. [节流防抖实现](https://github.com/kejianfeng/daily-writing/issues/2)
 
