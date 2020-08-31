@@ -12,3 +12,4 @@
 ### 数据结构算法相关
 
 1. [十分钟搞定二叉树遍历](https://github.com/kejianfeng/daily-writing/issues/3)
+2. [秒懂快速排序](https://github.com/kejianfeng/daily-writing/issues/6)
