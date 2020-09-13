@@ -9,6 +9,7 @@
 1. [请你实现个bind绑定](https://github.com/kejianfeng/daily-writing/issues/1)
 2. [节流防抖实现](https://github.com/kejianfeng/daily-writing/issues/2)
 3. [小二，来个深拷贝](https://github.com/kejianfeng/daily-writing/issues/5)
+4. [一道面试题：还在纠结async/ await、Promise的执行顺序？](https://github.com/kejianfeng/daily-writing/issues/7)
 ### 数据结构算法相关
 
 1. [十分钟搞定二叉树遍历](https://github.com/kejianfeng/daily-writing/issues/3)
