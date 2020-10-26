@@ -12,6 +12,8 @@
 4. [一道面试题：还在纠结async/ await、Promise的执行顺序？](https://github.com/kejianfeng/daily-writing/issues/7)
 5. [for in 与for of 杂杂碎碎](https://github.com/kejianfeng/daily-writing/issues/8)
 6. [【WebSocket应用解析】看完了还敢说不懂WebSocket吗？](https://github.com/kejianfeng/daily-writing/issues/9)
+7. [当 use strict 遇上 setTimeout](https://github.com/kejianfeng/daily-writing/issues/10)
+
 ### 数据结构算法相关
 
 1. [十分钟搞定二叉树遍历](https://github.com/kejianfeng/daily-writing/issues/3)
