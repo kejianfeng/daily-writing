@@ -13,6 +13,7 @@
 5. [for in 与for of 杂杂碎碎](https://github.com/kejianfeng/daily-writing/issues/8)
 6. [【WebSocket应用解析】看完了还敢说不懂WebSocket吗？](https://github.com/kejianfeng/daily-writing/issues/9)
 7. [当 use strict 遇上 setTimeout](https://github.com/kejianfeng/daily-writing/issues/10)
+8. [要不要进来看下数组降维？（数组拍平）](https://github.com/kejianfeng/daily-writing/issues/11)
 
 ### 数据结构算法相关
 
